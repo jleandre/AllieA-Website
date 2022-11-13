@@ -1,1 +1,859 @@
-{"current":{"color_primary":"#2f2f2f","color_secondary":"#f3f3f3","color_accent":"#545454","color_body_bg":"#f3f3f3","color_borders":"#858585","product_reviews_star_color":"#e5c649","color_header_background":"#f3f3f3","color_header_text":"#545454","color_header_cart_search":"#f3f3f3","color_nav_bg":"#d9c9c9","color_nav_text":"#ffffff","color_body_text":"#858585","color_heading_text":"#2f2f2f","color_footer_bg":"#d9c9c9","color_footer_text":"#545454","color_footer_social_link":"#545454","type_base_font":"roboto_n4","type_base_size":"14px","type_header_font":"times_new_roman_n7","type_header_transform":false,"type_accent_font":"lato_n7","type_navigation_size":"14px","type_navigation_transform":true,"type_button_size":"14px","type_button_transform":true,"favicon":"shopify:\/\/shop_images\/long-blonde-hair-at-carnival.jpg","cart_notes_enable":false,"ajax_cart_method":"modal","share_image":"shopify:\/\/shop_images\/Screen_Shot_2019-12-01_at_8.53.17_PM.png","social_twitter_link":"","social_facebook_link":"https:\/\/www.facebook.com\/shopblushivy\/?modal=admin_todo_tour","social_pinterest_link":"","social_google_plus_link":"","social_instagram_link":"https:\/\/www.instagram.com\/shopblushivy\/","social_snapchat_link":"","social_tumblr_link":"","social_youtube_link":"","social_vimeo_link":"","social_fancy_link":"","social_sharing_style":"is-normal","share_facebook":true,"share_twitter":true,"share_pinterest":true,"superscript_decimals":true,"checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#197bbd","checkout_button_color":"#197bbd","checkout_error_color":"#e32c2b","collection_sidebar_filters":"tags","sections":{"header":{"type":"header","settings":{"menu":"main-menu","logo":"shopify:\/\/shop_images\/logo-transparent_copy.png","logo_max_width":"200","show_announcement":false,"announcement_text":"","announcement_link":""}},"footer":{"type":"footer","blocks":{"menu":{"type":"menu","settings":{"title":"Quick links","menu":"main-menu","width":"16%"}},"text":{"type":"text","settings":{"title":"Get in touch","richtext":"<p>allie.august@blushivyboutique.com<\/p>","width":"33%"}},"newsletter":{"type":"newsletter","settings":{"title":"Newsletter","subtext":"<p>Promotions, new products and sales. Directly to your inbox.<\/p>","width":"33%"}}},"block_order":["menu","text","newsletter"],"settings":{"social_enabled":true,"show_payment_icons":true,"legal_menu":""}},"collection-list":{"type":"collection-list","blocks":{"0507f755-2693-4f47-930c-8132bf18ed1a":{"type":"collection","settings":{"collection":"new-arrivals"}},"892b50f9-d294-46ca-a8f8-50c7de146036":{"type":"collection","settings":{"collection":"tops"}},"5537e860-1f8f-4c88-b88e-b386108cf3f2":{"type":"collection","settings":{"collection":"outwear"}},"5813ce87-8bd1-46e1-a075-89e90a2ad458":{"type":"collection","settings":{"collection":"bottoms"}}},"block_order":["0507f755-2693-4f47-930c-8132bf18ed1a","892b50f9-d294-46ca-a8f8-50c7de146036","5537e860-1f8f-4c88-b88e-b386108cf3f2","5813ce87-8bd1-46e1-a075-89e90a2ad458"],"settings":{}},"slideshow-2":{"type":"slideshow","blocks":{"slideshow-2-0":{"type":"image","settings":{"slide":"shopify:\/\/shop_images\/06C1172B-970B-454D-877C-0021F67DF932.jpg","link":""}}},"block_order":["slideshow-2-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"collection-template":{"type":"collection-template","settings":{"grid":"4","rows":"6","collection_sidebar_filters":"tags","product_show_compare_at_price":false,"product_show_saved_amount":true,"product_reviews_enable":false,"enable_sidebar":true}},"product-template":{"type":"product-template","settings":{"product_image_zoom_enable":false,"product_quantity_enable":false,"product_quantity_message":false,"product_incoming_message":false,"product_vendor_enable":false,"product_show_saved_amount":true,"product_show_compare_at_price":false,"related_products_enable":false,"enable_payment_button":true,"social_sharing_products":true,"product_reviews_enable":false,"add_to_cart_button_size":"small"}},"list-collections-template":{"type":"list-collections-template","blocks":{"1600076812567":{"type":"collection","settings":{"collection":"new-arrivals"}},"1584679072198":{"type":"collection","settings":{"collection":"tops"}},"1584679124298":{"type":"collection","settings":{"collection":"bottoms"}},"1584679148940":{"type":"collection","settings":{"collection":"dresses"}},"1584689204002":{"type":"collection","settings":{"collection":"rompers-jumpers"}},"1584679177120":{"type":"collection","settings":{"collection":"outwear"}},"1584679198685":{"type":"collection","settings":{"collection":"shoes"}},"1584679207432":{"type":"collection","settings":{"collection":"accessories"}},"bc8686d6-c617-41bb-803f-f8444c3571f3":{"type":"collection","settings":{"collection":"activewear"}},"1584689217927":{"type":"collection","settings":{"collection":"hair-accessories"}},"1587593203381":{"type":"collection","settings":{"collection":"jewelry"}},"1598774704011":{"type":"collection","settings":{"collection":"hats"}},"1600076818416":{"type":"collection","settings":{"collection":"sale"}},"c91ff40e-bc0e-41f8-a83c-f62c4c1316a2":{"type":"collection","settings":{"collection":"gift-cards"}}},"block_order":["1600076812567","1584679072198","1584679124298","1584679148940","1584689204002","1584679177120","1584679198685","1584679207432","bc8686d6-c617-41bb-803f-f8444c3571f3","1584689217927","1587593203381","1598774704011","1600076818416","c91ff40e-bc0e-41f8-a83c-f62c4c1316a2"],"settings":{"display_type":"selected","layout":"grid","sort":"alphabetical","grid":"3"}},"1598670731001":{"type":"slideshow","blocks":{"1598670731001-0":{"type":"image","settings":{"slide":"shopify:\/\/shop_images\/A46BB8BF-4240-4A7A-B5C9-FD260E5D1DD9.jpg","link":""}}},"block_order":["1598670731001-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"1598774356741":{"type":"collection-list","blocks":{"1598774447552":{"type":"collection","settings":{"collection":"dresses"}},"f1dfdd99-45b7-4f00-918b-ca6e752c8da9":{"type":"collection","settings":{"collection":"rompers-jumpers"}},"8e22a43d-792c-4e7b-8dfb-19a215c7e2b6":{"type":"collection","settings":{"collection":"matching-sets"}},"1598774595662":{"type":"collection","settings":{"collection":"activewear"}}},"block_order":["1598774447552","f1dfdd99-45b7-4f00-918b-ca6e752c8da9","8e22a43d-792c-4e7b-8dfb-19a215c7e2b6","1598774595662"],"settings":{}},"1598777117488":{"type":"collection-list","blocks":{"1598777190345":{"type":"collection","settings":{"collection":"hats"}},"1598777117488-1":{"type":"collection","settings":{"collection":"hair-accessories"}},"1598777117488-0":{"type":"collection","settings":{"collection":"jewelry"}},"3c772fe1-8297-436e-ac98-7fc7984860c0":{"type":"collection","settings":{"collection":"shoes"}},"d415ed48-866c-41df-9e66-71bdfbcf1bc2":{"type":"collection","settings":{"collection":"accessories"}},"1598777184407":{"type":"collection","settings":{"collection":"sale"}}},"block_order":["1598777190345","1598777117488-1","1598777117488-0","3c772fe1-8297-436e-ac98-7fc7984860c0","d415ed48-866c-41df-9e66-71bdfbcf1bc2","1598777184407"],"settings":{}},"16041148494975ec4c":{"type":"slideshow","blocks":{"16041148494975ec4c-0":{"type":"image","settings":{"slide":"shopify:\/\/shop_images\/D2FA2F41-826E-4B34-B31C-836D704BA76B.jpg","link":""}}},"block_order":["16041148494975ec4c-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"announcement-bar":{"type":"announcement-bar","settings":{"message":true,"home_page_only":false,"header_padding":0,"message_text":"FREE U.S. SHIPPING ON ORDERS OVER $100","free_shipping_countdown":true,"free_shipping_threshold":100,"free_shipping_notqualified":"Add just [price] to your cart to receive free shipping!","free_shipping_qualified":"Your order qualifies for free shipping!","message_link":"","color_bg":"#000000","color_text":"#ffffff","color_text_hover":"#eeeeee","font_size":15}},"16356225047d8d4dfe":{"type":"slideshow","blocks":{"16356225047d8d4dfe-0":{"type":"image","settings":{"slide":"shopify:\/\/shop_images\/1EAD0E49-0E8B-40C0-8FBE-CF03B5559F06.jpg","link":""}}},"block_order":["16356225047d8d4dfe-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"1642663414849297a7":{"type":"collection-rows","settings":{"title":"Gift Cards","home_featured_row":"gift-cards","grid":4,"rows":1,"product_show_saved_amount":true,"product_show_compare_at_price":false}}},"content_for_index":["1598670731001","collection-list","16041148494975ec4c","1598774356741","slideshow-2","1598777117488","16356225047d8d4dfe","1642663414849297a7"]},"presets":{"Blue":{"ajax_cart_method":"modal","cart_notes_enable":false,"collection_sidebar_filters":"tags","color_accent":"#dd2525","color_body_bg":"#fff","color_body_text":"#585858","color_borders":"#ececec","color_footer_bg":"#f2f2f2","color_footer_social_link":"#bbbbbb","color_footer_text":"#636363","color_header_background":"#182e49","color_header_cart_search":"#0f243d","color_header_text":"#fff","color_heading_text":"#000","color_nav_bg":"#182e49","color_nav_text":"#fff","color_primary":"#528ec1","color_secondary":"#dcdcdc","share_facebook":true,"share_pinterest":true,"share_twitter":true,"social_facebook_link":"","social_fancy_link":"","social_google_plus_link":"","social_instagram_link":"","social_pinterest_link":"","social_sharing_style":"is-normal","social_snapchat_link":"","social_tumblr_link":"","social_twitter_link":"","social_vimeo_link":"","social_youtube_link":"","type_accent_font":"montserrat_n5","type_base_font":"montserrat_n5","type_base_size":"13px","type_button_size":"14px","type_button_transform":true,"type_header_font":"montserrat_n7","type_header_transform":true,"type_navigation_size":"14px","type_navigation_transform":true,"superscript_decimals":true,"sections":{"header":{"type":"header","settings":{"logo":"","logo_max_width":"305"}},"footer":{"type":"footer","blocks":{"menu":{"type":"menu","settings":{"title":"Quick links","menu":"","width":"16%"}},"text":{"type":"text","settings":{"title":"Get in touch","richtext":"<p>Use this text to share information about your brand with your customers.<\/p>","width":"50%"}},"newsletter":{"type":"newsletter","settings":{"title":"Newsletter","width":"33%"}}},"block_order":["menu","text","newsletter"],"settings":{"social_enabled":false,"legal_menu":""}},"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"slide":"","link":""}},"slide-1":{"type":"image","settings":{"slide":"","link":""}},"slide-2":{"type":"image","settings":{"slide":"","link":""}}},"block_order":["slide-0","slide-1","slide-2"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"collection-list":{"type":"collection-list","blocks":{"collection-list-0":{"type":"collection","settings":{"collection":""}},"collection-list-1":{"type":"collection","settings":{"collection":""}}},"block_order":["collection-list-0","collection-list-1"],"settings":{}},"collection-row-1":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}},"collection-row-2":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}},"collection-row-3":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}}},"content_for_index":["slideshow","collection-list","collection-row-1","collection-row-2","collection-row-3"]},"Light":{"ajax_cart_method":"modal","cart_notes_enable":false,"collection_sidebar_filters":"tags","color_accent":"#545454","color_body_bg":"#f3f3f3","color_body_text":"#858585","color_borders":"#dedede","color_footer_bg":"#ffffff","color_footer_social_link":"#545454","color_footer_text":"#545454","color_header_background":"#ffffff","color_header_cart_search":"#f3f3f3","color_header_text":"#545454","color_heading_text":"#2f2f2f","color_nav_bg":"#9c756f","color_nav_text":"#ffffff","color_primary":"#9c756f","color_secondary":"#f3f3f3","share_facebook":true,"share_pinterest":true,"share_twitter":true,"social_facebook_link":"","social_google_plus_link":"","social_instagram_link":"","social_sharing_style":"is-normal","social_twitter_link":"","type_accent_font":"lato_n7","type_base_font":"roboto_n4","type_base_size":"14px","type_button_size":"14px","type_button_transform":true,"type_header_font":"times_new_roman_n7","type_header_transform":false,"type_navigation_size":"14px","type_navigation_transform":true,"superscript_decimals":true,"sections":{"header":{"type":"header","settings":{"logo":"","logo_max_width":"305"}},"footer":{"type":"footer","blocks":{"menu":{"type":"menu","settings":{"title":"Quick links","menu":"","width":"16%"}},"text":{"type":"text","settings":{"title":"Get in touch","richtext":"<p>Use this text to share information about your brand with your customers.<\/p>","width":"50%"}},"newsletter":{"type":"newsletter","settings":{"title":"Newsletter","width":"33%"}}},"block_order":["menu","text","newsletter"],"settings":{"social_enabled":false,"legal_menu":""}},"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"slide":"","link":""}}},"block_order":["slide-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}},"collection-list":{"type":"collection-list","blocks":{"collection-list-0":{"type":"collection","settings":{"collection":""}},"collection-list-1":{"type":"collection","settings":{"collection":""}}},"block_order":["collection-list-0","collection-list-1"],"settings":{}},"collection-row-1":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}},"collection-row-2":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}},"collection-row-3":{"type":"collection-rows","settings":{"home_featured_row":"","grid":4,"rows":1}},"featured-content":{"type":"featured-content","settings":{}},"slideshow-2":{"type":"slideshow","blocks":{"slideshow-2-0":{"type":"image","settings":{"slide":"","link":""}}},"block_order":["slideshow-2-0"],"settings":{"slider_home_auto":false,"slider_home_rate":"5000"}}},"content_for_index":["slideshow","collection-list","collection-row-1","collection-row-2","collection-row-3","slideshow-2","featured-content"]}}}
+{
+  "current": {
+    "color_primary": "#2f2f2f",
+    "color_secondary": "#f3f3f3",
+    "color_accent": "#545454",
+    "color_body_bg": "#f3f3f3",
+    "color_borders": "#858585",
+    "product_reviews_star_color": "#e5c649",
+    "color_header_background": "#f3f3f3",
+    "color_header_text": "#545454",
+    "color_header_cart_search": "#f3f3f3",
+    "color_nav_bg": "#d9c9c9",
+    "color_nav_text": "#ffffff",
+    "color_body_text": "#858585",
+    "color_heading_text": "#2f2f2f",
+    "color_footer_bg": "#d9c9c9",
+    "color_footer_text": "#545454",
+    "color_footer_social_link": "#545454",
+    "type_base_font": "roboto_n4",
+    "type_base_size": "14px",
+    "type_header_font": "times_new_roman_n7",
+    "type_header_transform": false,
+    "type_accent_font": "lato_n7",
+    "type_navigation_size": "14px",
+    "type_navigation_transform": true,
+    "type_button_size": "14px",
+    "type_button_transform": true,
+    "favicon": "shopify:\/\/shop_images\/long-blonde-hair-at-carnival.jpg",
+    "cart_notes_enable": false,
+    "ajax_cart_method": "modal",
+    "share_image": "shopify:\/\/shop_images\/Screen_Shot_2019-12-01_at_8.53.17_PM.png",
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/shopblushivy\/?modal=admin_todo_tour",
+    "social_pinterest_link": "",
+    "social_google_plus_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/shopblushivy\/",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_fancy_link": "",
+    "social_sharing_style": "is-normal",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "superscript_decimals": true,
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "collection_sidebar_filters": "tags",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "menu": "main-menu",
+          "logo": "shopify:\/\/shop_images\/logo-transparent_copy.png",
+          "logo_max_width": "200",
+          "show_announcement": false,
+          "announcement_text": "",
+          "announcement_link": ""
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "menu": {
+            "type": "menu",
+            "settings": {
+              "title": "Quick links",
+              "menu": "main-menu",
+              "width": "16%"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "title": "Get in touch",
+              "richtext": "<p>allie.august@blushivyboutique.com<\/p>",
+              "width": "33%"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter",
+              "subtext": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+              "width": "33%"
+            }
+          }
+        },
+        "block_order": [
+          "menu",
+          "text",
+          "newsletter"
+        ],
+        "settings": {
+          "social_enabled": true,
+          "show_payment_icons": true,
+          "legal_menu": ""
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "blocks": {
+          "0507f755-2693-4f47-930c-8132bf18ed1a": {
+            "type": "collection",
+            "settings": {
+              "collection": "new-arrivals"
+            }
+          },
+          "892b50f9-d294-46ca-a8f8-50c7de146036": {
+            "type": "collection",
+            "settings": {
+              "collection": "tops"
+            }
+          },
+          "5537e860-1f8f-4c88-b88e-b386108cf3f2": {
+            "type": "collection",
+            "settings": {
+              "collection": "outwear"
+            }
+          },
+          "5813ce87-8bd1-46e1-a075-89e90a2ad458": {
+            "type": "collection",
+            "settings": {
+              "collection": "bottoms"
+            }
+          }
+        },
+        "block_order": [
+          "0507f755-2693-4f47-930c-8132bf18ed1a",
+          "892b50f9-d294-46ca-a8f8-50c7de146036",
+          "5537e860-1f8f-4c88-b88e-b386108cf3f2",
+          "5813ce87-8bd1-46e1-a075-89e90a2ad458"
+        ],
+        "settings": {
+        }
+      },
+      "slideshow-2": {
+        "type": "slideshow",
+        "blocks": {
+          "slideshow-2-0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/06C1172B-970B-454D-877C-0021F67DF932.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "slideshow-2-0"
+        ],
+        "settings": {
+          "slider_home_auto": false,
+          "slider_home_rate": "5000"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "grid": "4",
+          "rows": "6",
+          "collection_sidebar_filters": "tags",
+          "product_show_compare_at_price": false,
+          "product_show_saved_amount": true,
+          "product_reviews_enable": false,
+          "enable_sidebar": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_zoom_enable": false,
+          "product_quantity_enable": false,
+          "product_quantity_message": false,
+          "product_incoming_message": false,
+          "product_vendor_enable": false,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false,
+          "related_products_enable": false,
+          "enable_payment_button": true,
+          "social_sharing_products": true,
+          "product_reviews_enable": false,
+          "add_to_cart_button_size": "small"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1600076812567": {
+            "type": "collection",
+            "settings": {
+              "collection": "new-arrivals"
+            }
+          },
+          "1584679072198": {
+            "type": "collection",
+            "settings": {
+              "collection": "tops"
+            }
+          },
+          "1584679124298": {
+            "type": "collection",
+            "settings": {
+              "collection": "bottoms"
+            }
+          },
+          "1584679148940": {
+            "type": "collection",
+            "settings": {
+              "collection": "dresses"
+            }
+          },
+          "1584689204002": {
+            "type": "collection",
+            "settings": {
+              "collection": "rompers-jumpers"
+            }
+          },
+          "1584679177120": {
+            "type": "collection",
+            "settings": {
+              "collection": "outwear"
+            }
+          },
+          "1584679198685": {
+            "type": "collection",
+            "settings": {
+              "collection": "shoes"
+            }
+          },
+          "1584679207432": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories"
+            }
+          },
+          "bc8686d6-c617-41bb-803f-f8444c3571f3": {
+            "type": "collection",
+            "settings": {
+              "collection": "activewear"
+            }
+          },
+          "1584689217927": {
+            "type": "collection",
+            "settings": {
+              "collection": "hair-accessories"
+            }
+          },
+          "1587593203381": {
+            "type": "collection",
+            "settings": {
+              "collection": "jewelry"
+            }
+          },
+          "1598774704011": {
+            "type": "collection",
+            "settings": {
+              "collection": "hats"
+            }
+          },
+          "1600076818416": {
+            "type": "collection",
+            "settings": {
+              "collection": "sale"
+            }
+          },
+          "c91ff40e-bc0e-41f8-a83c-f62c4c1316a2": {
+            "type": "collection",
+            "settings": {
+              "collection": "gift-cards"
+            }
+          }
+        },
+        "block_order": [
+          "1600076812567",
+          "1584679072198",
+          "1584679124298",
+          "1584679148940",
+          "1584689204002",
+          "1584679177120",
+          "1584679198685",
+          "1584679207432",
+          "bc8686d6-c617-41bb-803f-f8444c3571f3",
+          "1584689217927",
+          "1587593203381",
+          "1598774704011",
+          "1600076818416",
+          "c91ff40e-bc0e-41f8-a83c-f62c4c1316a2"
+        ],
+        "settings": {
+          "display_type": "selected",
+          "layout": "grid",
+          "sort": "alphabetical",
+          "grid": "3"
+        }
+      },
+      "1598670731001": {
+        "type": "slideshow",
+        "blocks": {
+          "1598670731001-0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/A46BB8BF-4240-4A7A-B5C9-FD260E5D1DD9.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1598670731001-0"
+        ],
+        "settings": {
+          "slider_home_auto": false,
+          "slider_home_rate": "5000"
+        }
+      },
+      "1598774356741": {
+        "type": "collection-list",
+        "blocks": {
+          "1598774447552": {
+            "type": "collection",
+            "settings": {
+              "collection": "dresses"
+            }
+          },
+          "f1dfdd99-45b7-4f00-918b-ca6e752c8da9": {
+            "type": "collection",
+            "settings": {
+              "collection": "rompers-jumpers"
+            }
+          },
+          "8e22a43d-792c-4e7b-8dfb-19a215c7e2b6": {
+            "type": "collection",
+            "settings": {
+              "collection": "matching-sets"
+            }
+          },
+          "1598774595662": {
+            "type": "collection",
+            "settings": {
+              "collection": "activewear"
+            }
+          }
+        },
+        "block_order": [
+          "1598774447552",
+          "f1dfdd99-45b7-4f00-918b-ca6e752c8da9",
+          "8e22a43d-792c-4e7b-8dfb-19a215c7e2b6",
+          "1598774595662"
+        ],
+        "settings": {
+        }
+      },
+      "1598777117488": {
+        "type": "collection-list",
+        "blocks": {
+          "1598777190345": {
+            "type": "collection",
+            "settings": {
+              "collection": "hats"
+            }
+          },
+          "1598777117488-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "hair-accessories"
+            }
+          },
+          "1598777117488-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "jewelry"
+            }
+          },
+          "3c772fe1-8297-436e-ac98-7fc7984860c0": {
+            "type": "collection",
+            "settings": {
+              "collection": "shoes"
+            }
+          },
+          "d415ed48-866c-41df-9e66-71bdfbcf1bc2": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories"
+            }
+          },
+          "1598777184407": {
+            "type": "collection",
+            "settings": {
+              "collection": "sale"
+            }
+          }
+        },
+        "block_order": [
+          "1598777190345",
+          "1598777117488-1",
+          "1598777117488-0",
+          "3c772fe1-8297-436e-ac98-7fc7984860c0",
+          "d415ed48-866c-41df-9e66-71bdfbcf1bc2",
+          "1598777184407"
+        ],
+        "settings": {
+        }
+      },
+      "16041148494975ec4c": {
+        "type": "slideshow",
+        "blocks": {
+          "16041148494975ec4c-0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/D2FA2F41-826E-4B34-B31C-836D704BA76B.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "16041148494975ec4c-0"
+        ],
+        "settings": {
+          "slider_home_auto": false,
+          "slider_home_rate": "5000"
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "message": true,
+          "home_page_only": true,
+          "header_padding": 0,
+          "message_text": "𝖥𝗋𝖾𝖾 𝖴.𝖲. 𝗌𝗁𝗂𝗉𝗉𝗂𝗇𝗀 𝗈𝗇 𝗈𝗋𝖽𝖾𝗋𝗌 𝗈𝗏𝖾𝗋 $100 | 𝖦𝖾𝗍 15% 𝗈𝖿𝖿 𝗒𝗈𝗎𝗋 𝖿𝗂𝗋𝗌𝗍 𝗉𝗎𝗋𝖼𝗁𝖺𝗌𝖾! 𝖴𝗌𝖾 𝖼𝗈𝖽𝖾: 𝖶𝖤𝖫𝖢𝖮𝖬𝖤15",
+          "free_shipping_countdown": true,
+          "free_shipping_threshold": 100,
+          "free_shipping_notqualified": "Add just [price] to your cart to receive free shipping!",
+          "free_shipping_qualified": "Your order qualifies for free shipping!",
+          "message_link": "",
+          "color_bg": "#000000",
+          "color_text": "#ffffff",
+          "color_text_hover": "#eeeeee",
+          "font_size": 15
+        }
+      },
+      "16356225047d8d4dfe": {
+        "type": "slideshow",
+        "blocks": {
+          "16356225047d8d4dfe-0": {
+            "type": "image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/1EAD0E49-0E8B-40C0-8FBE-CF03B5559F06.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "16356225047d8d4dfe-0"
+        ],
+        "settings": {
+          "slider_home_auto": false,
+          "slider_home_rate": "5000"
+        }
+      },
+      "1642663414849297a7": {
+        "type": "collection-rows",
+        "settings": {
+          "title": "Gift Cards",
+          "home_featured_row": "gift-cards",
+          "grid": 4,
+          "rows": 1,
+          "product_show_saved_amount": true,
+          "product_show_compare_at_price": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1598670731001",
+      "collection-list",
+      "16041148494975ec4c",
+      "1598774356741",
+      "slideshow-2",
+      "1598777117488",
+      "16356225047d8d4dfe",
+      "1642663414849297a7"
+    ]
+  },
+  "presets": {
+    "Blue": {
+      "ajax_cart_method": "modal",
+      "cart_notes_enable": false,
+      "collection_sidebar_filters": "tags",
+      "color_accent": "#dd2525",
+      "color_body_bg": "#fff",
+      "color_body_text": "#585858",
+      "color_borders": "#ececec",
+      "color_footer_bg": "#f2f2f2",
+      "color_footer_social_link": "#bbbbbb",
+      "color_footer_text": "#636363",
+      "color_header_background": "#182e49",
+      "color_header_cart_search": "#0f243d",
+      "color_header_text": "#fff",
+      "color_heading_text": "#000",
+      "color_nav_bg": "#182e49",
+      "color_nav_text": "#fff",
+      "color_primary": "#528ec1",
+      "color_secondary": "#dcdcdc",
+      "share_facebook": true,
+      "share_pinterest": true,
+      "share_twitter": true,
+      "social_facebook_link": "",
+      "social_fancy_link": "",
+      "social_google_plus_link": "",
+      "social_instagram_link": "",
+      "social_pinterest_link": "",
+      "social_sharing_style": "is-normal",
+      "social_snapchat_link": "",
+      "social_tumblr_link": "",
+      "social_twitter_link": "",
+      "social_vimeo_link": "",
+      "social_youtube_link": "",
+      "type_accent_font": "montserrat_n5",
+      "type_base_font": "montserrat_n5",
+      "type_base_size": "13px",
+      "type_button_size": "14px",
+      "type_button_transform": true,
+      "type_header_font": "montserrat_n7",
+      "type_header_transform": true,
+      "type_navigation_size": "14px",
+      "type_navigation_transform": true,
+      "superscript_decimals": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "305"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "menu",
+              "settings": {
+                "title": "Quick links",
+                "menu": "",
+                "width": "16%"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "Get in touch",
+                "richtext": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "width": "50%"
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "width": "33%"
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "social_enabled": false,
+            "legal_menu": ""
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            },
+            "slide-2": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1",
+            "slide-2"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-list-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "collection-list-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1"
+          ],
+          "settings": {
+          }
+        },
+        "collection-row-1": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-2": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-3": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "collection-list",
+        "collection-row-1",
+        "collection-row-2",
+        "collection-row-3"
+      ]
+    },
+    "Light": {
+      "ajax_cart_method": "modal",
+      "cart_notes_enable": false,
+      "collection_sidebar_filters": "tags",
+      "color_accent": "#545454",
+      "color_body_bg": "#f3f3f3",
+      "color_body_text": "#858585",
+      "color_borders": "#dedede",
+      "color_footer_bg": "#ffffff",
+      "color_footer_social_link": "#545454",
+      "color_footer_text": "#545454",
+      "color_header_background": "#ffffff",
+      "color_header_cart_search": "#f3f3f3",
+      "color_header_text": "#545454",
+      "color_heading_text": "#2f2f2f",
+      "color_nav_bg": "#9c756f",
+      "color_nav_text": "#ffffff",
+      "color_primary": "#9c756f",
+      "color_secondary": "#f3f3f3",
+      "share_facebook": true,
+      "share_pinterest": true,
+      "share_twitter": true,
+      "social_facebook_link": "",
+      "social_google_plus_link": "",
+      "social_instagram_link": "",
+      "social_sharing_style": "is-normal",
+      "social_twitter_link": "",
+      "type_accent_font": "lato_n7",
+      "type_base_font": "roboto_n4",
+      "type_base_size": "14px",
+      "type_button_size": "14px",
+      "type_button_transform": true,
+      "type_header_font": "times_new_roman_n7",
+      "type_header_transform": false,
+      "type_navigation_size": "14px",
+      "type_navigation_transform": true,
+      "superscript_decimals": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": "305"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "menu",
+              "settings": {
+                "title": "Quick links",
+                "menu": "",
+                "width": "16%"
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "title": "Get in touch",
+                "richtext": "<p>Use this text to share information about your brand with your customers.<\/p>",
+                "width": "50%"
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "width": "33%"
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "social_enabled": false,
+            "legal_menu": ""
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-list-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "collection-list-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1"
+          ],
+          "settings": {
+          }
+        },
+        "collection-row-1": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-2": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "collection-row-3": {
+          "type": "collection-rows",
+          "settings": {
+            "home_featured_row": "",
+            "grid": 4,
+            "rows": 1
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {
+          }
+        },
+        "slideshow-2": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-2-0": {
+              "type": "image",
+              "settings": {
+                "slide": "",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-2-0"
+          ],
+          "settings": {
+            "slider_home_auto": false,
+            "slider_home_rate": "5000"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "collection-list",
+        "collection-row-1",
+        "collection-row-2",
+        "collection-row-3",
+        "slideshow-2",
+        "featured-content"
+      ]
+    }
+  }
+}
